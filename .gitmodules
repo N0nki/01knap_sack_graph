@@ -1,0 +1,3 @@
+[submodule "proposal_packages"]
+	path = proposal_packages
+	url = https://github.com/N0nki/proposal_packages
